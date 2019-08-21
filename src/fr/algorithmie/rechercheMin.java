@@ -1,6 +1,6 @@
 package fr.algorithmie;
 
-public class rechercheMin {
+public class RechercheMin {
 
 //	EXERCICE RECHERCHEMIN 
 //	• Créer une classe RechercheMin
